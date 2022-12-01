@@ -1,7 +1,6 @@
 sympy
 scikit-image
 matplotlib
-numpy<1.21,>=1.17
 scipy
 numba>=0.48.0
 wheel>=0.33.6
